@@ -1,0 +1,101 @@
+{
+	"ImportPath": "github.com/haborhuang/weixin-comp-go-demo",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/astaxie/beego",
+			"Comment": "v1.8.3",
+			"Rev": "cab8458c1c4a5a3b4bf5192922be620e6dede15b"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/config",
+			"Comment": "v1.8.3",
+			"Rev": "cab8458c1c4a5a3b4bf5192922be620e6dede15b"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context",
+			"Comment": "v1.8.3",
+			"Rev": "cab8458c1c4a5a3b4bf5192922be620e6dede15b"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context/param",
+			"Comment": "v1.8.3",
+			"Rev": "cab8458c1c4a5a3b4bf5192922be620e6dede15b"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/grace",
+			"Comment": "v1.8.3",
+			"Rev": "cab8458c1c4a5a3b4bf5192922be620e6dede15b"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/logs",
+			"Comment": "v1.8.3",
+			"Rev": "cab8458c1c4a5a3b4bf5192922be620e6dede15b"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/session",
+			"Comment": "v1.8.3",
+			"Rev": "cab8458c1c4a5a3b4bf5192922be620e6dede15b"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/toolbox",
+			"Comment": "v1.8.3",
+			"Rev": "cab8458c1c4a5a3b4bf5192922be620e6dede15b"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/utils",
+			"Comment": "v1.8.3",
+			"Rev": "cab8458c1c4a5a3b4bf5192922be620e6dede15b"
+		},
+		{
+			"ImportPath": "github.com/caarlos0/env",
+			"Comment": "v2.1-10-g7110c4e",
+			"Rev": "7110c4e2f569e729e19ad2d89fb3b5e3d159d8ca"
+		},
+		{
+			"ImportPath": "github.com/go-redis/redis",
+			"Comment": "v6.10.2",
+			"Rev": "877867d2845fbaf86798befe410b6ceb6f5c29a3"
+		},
+		{
+			"ImportPath": "github.com/go-redis/redis/internal",
+			"Comment": "v6.10.2",
+			"Rev": "877867d2845fbaf86798befe410b6ceb6f5c29a3"
+		},
+		{
+			"ImportPath": "github.com/go-redis/redis/internal/consistenthash",
+			"Comment": "v6.10.2",
+			"Rev": "877867d2845fbaf86798befe410b6ceb6f5c29a3"
+		},
+		{
+			"ImportPath": "github.com/go-redis/redis/internal/hashtag",
+			"Comment": "v6.10.2",
+			"Rev": "877867d2845fbaf86798befe410b6ceb6f5c29a3"
+		},
+		{
+			"ImportPath": "github.com/go-redis/redis/internal/pool",
+			"Comment": "v6.10.2",
+			"Rev": "877867d2845fbaf86798befe410b6ceb6f5c29a3"
+		},
+		{
+			"ImportPath": "github.com/go-redis/redis/internal/proto",
+			"Comment": "v6.10.2",
+			"Rev": "877867d2845fbaf86798befe410b6ceb6f5c29a3"
+		},
+		{
+			"ImportPath": "github.com/go-redis/redis/internal/singleflight",
+			"Comment": "v6.10.2",
+			"Rev": "877867d2845fbaf86798befe410b6ceb6f5c29a3"
+		},
+		{
+			"ImportPath": "github.com/go-redis/redis/internal/util",
+			"Comment": "v6.10.2",
+			"Rev": "877867d2845fbaf86798befe410b6ceb6f5c29a3"
+		},
+		{
+			"ImportPath": "github.com/haborhuang/go-tools/http",
+			"Rev": "3295075fd0d004e302250095b20ec8db4b033cb7"
+		}
+	]
+}
